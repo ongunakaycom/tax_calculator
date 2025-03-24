@@ -1,1 +1,2 @@
 # coding-project-template
+![alt text](img/01-jasmine-tests-passing.png) ![alt text](img/02-dockerfile.png) ![alt text](img/03-docker-build-output.png) ![alt text](img/04-docker-image-browser.png) ![alt text](img/05-docker-icr-push.png.png) ![alt text](img/06-deployed-on-cloud.png) ![alt text](img/07-tasks-yaml.png) ![alt text](img/08-pipeline-changes.png) ![alt text](img/09-run-yaml.png) ![alt text](img/10-final-output.png)
